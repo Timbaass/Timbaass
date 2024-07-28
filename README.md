@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me msozgur@gmail.com
+- 📫 How to reach me msozgur44@gmail.com
 - 😄 Pronouns: The Shadow of the God 
 - ⚡ Fun fact: You are human
 
