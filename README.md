@@ -30,7 +30,7 @@ Passionate about full-stack development and data science, I create end-to-end pr
 
 ### 📊 Stats
 
-![Timbaass's GitHub stats](https://github-readme-stats.vercel.app/api?username=timbaass&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbaass&show_icons=true&theme=gruvbox&cache_seconds=60)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Timbaass&theme=gruvbox&border_radius=4.5) -->
 
